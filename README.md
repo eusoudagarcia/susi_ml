@@ -18,13 +18,27 @@ Começamos com uma visão simples e evoluímos para resolver problemas complexos
 
 ![Tensor Inicial](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(10).png?raw=true)
 
+![Tensor Ajustado](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(12).png?raw=true)
+
+![Tensor Ajustado](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(13).png?raw=true)
+
+![Tensor Ajustado](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(13).png?raw=true)
+
+![Tensor e PNG Ajustados](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(15).png?raw=true)
+
+![Tensor e PNG Ajustados](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(16).png?raw=true)
+
 3. **Transformação em Tensor**: Conseguimos converter imagens em tensores, um marco significativo.
 
-![Tensor Final](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(17).png?raw=true)
+![Tensor Final e PNG Ajustado](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(17).png?raw=true)
 
 4. **Redimensionamento e Conversão**: Finalmente, transformamos tensores de volta em imagens, agora com tamanhos modificados.
 
-![Imagem Final](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(19).png?raw=true)
+![Imagem Final](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(17).png?raw=true)
+
+![Imagem Final Redimensionada](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(18).png?raw=true)
+
+![Imagem Final Redimensionada](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(19).png?raw=true)
 
 
 Esses passos representam a base sólida que construímos para o **susi_ml**.

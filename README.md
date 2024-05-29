@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Depois de alguns meses de tentativa e erro, e praticamente desistência do projeto, me reanimaram a compartilhar e buscar por ajuda. Buscamos colaboradores. :-)

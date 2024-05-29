@@ -12,44 +12,33 @@ Começamos com uma visão simples e evoluímos para resolver problemas complexos
 
 1. **Imagem Inicial**: Nosso ponto de partida, uma ideia brilhante esperando para ser moldada.
 
-**Imagem Inicial**
-![Imagem Inicial](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/14471433500_cdaa22e3ea_m.jpg?raw=true)
+![Imagem Inicial](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/14471433500_cdaa22e3ea_m.jpg?raw=true) **Imagem Inicial**
 
 2. **Resolvendo Problemas**: Através de iterações e feedback, começamos a moldar nossa solução.
 
-**Tensor Inicial depois de 1 mês de desenvolvimento sem imagens**
-![Tensor Inicial](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(10).png?raw=true)
+![Tensor Inicial](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(10).png?raw=true) **Tensor Inicial depois de 1 mês de desenvolvimento sem imagens**
 
-**Tensor Ajustado**
-![Tensor Ajustado](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(12).png?raw=true)
+![Tensor Ajustado](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(12).png?raw=true) **Tensor Ajustado**
 
-**Tensor Ajustado**
-![Tensor Ajustado](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(13).png?raw=true)
+![Tensor Ajustado](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(13).png?raw=true) **Tensor Ajustado**
 
-**Tensor Ajustado**
-![Tensor Ajustado](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(13).png?raw=true)
+![Tensor Ajustado](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(13).png?raw=true) **Tensor Ajustado**
 
-**Tensor e PNG Ajustados**
-![Tensor e PNG Ajustados](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(15).png?raw=true)
+![Tensor e PNG Ajustados](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(15).png?raw=true) **Tensor e PNG Ajustados**
 
-**Tensor e PNG Ajustados**
-![Tensor e PNG Ajustados](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(16).png?raw=true)
+![Tensor e PNG Ajustados](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(16).png?raw=true) **Tensor e PNG Ajustados**
 
 3. **Transformação em Tensor**: Conseguimos converter imagens em tensores, um marco significativo.
 
-**Tensor Final e PNG Ajustados**
-![Tensor Final e PNG Ajustados](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(17).png?raw=true)
+![Tensor Final e PNG Ajustados](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(17).png?raw=true) **Tensor Final e PNG Ajustados**
 
 4. **Redimensionamento e Conversão**: Finalmente, transformamos tensores de volta em imagens, agora com tamanhos modificados.
 
-**Imagem Final**
-![Imagem Final](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(17).png?raw=true)
+![Imagem Final](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(17).png?raw=true) **Imagem Final**
 
-**Imagem Final Redimensionada**
-![Imagem Final Redimensionada](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(18).png?raw=true)
+![Imagem Final Redimensionada](https://github.com/eusoudagarcia/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(18).png?raw=true) **Imagem Final Redimensionada**
 
-**Imagem Final Redimensionada**
-![Imagem Final Redimensionada](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(19).png?raw=true)
+![Imagem Final Redimensionada](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(19).png?raw=true) **Imagem Final Redimensionada**
 
 
 Esses passos representam a base sólida que construímos para o **susi_ml**.

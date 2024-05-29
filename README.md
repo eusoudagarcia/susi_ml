@@ -11,13 +11,19 @@ O **susi_ml** nasceu da necessidade de uma solução robusta e nativa em Dart pa
 Começamos com uma visão simples e evoluímos para resolver problemas complexos. Aqui está uma linha do tempo visual da nossa jornada:
 
 1. **Imagem Inicial**: Nosso ponto de partida, uma ideia brilhante esperando para ser moldada.
+
 ![Imagem Inicial](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/14471433500_cdaa22e3ea_m.jpg?raw=true)
+
 2. **Resolvendo Problemas**: Através de iterações e feedback, começamos a moldar nossa solução.
+
 ![Tensor Inicial](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(10).png?raw=true)
+
 3. **Transformação em Tensor**: Conseguimos converter imagens em tensores, um marco significativo.
+
 ![Tensor Final](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(17).png?raw=true)
 
 4. **Redimensionamento e Conversão**: Finalmente, transformamos tensores de volta em imagens, agora com tamanhos modificados.
+
 ![Imagem Final](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(19).png?raw=true)
 
 Esses passos representam a base sólida que construímos para o **susi_ml**.

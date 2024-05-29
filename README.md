@@ -18,6 +18,7 @@ Começamos com uma visão simples e evoluímos para resolver problemas complexos
 2. **Resolvendo Problemas**: Através de iterações e feedback, começamos a moldar nossa solução.
 
 ![Tensor Inicial](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(10).png?raw=true)
+<img src="https://github.com/garciadp95/susi_ml/blob/main/lib/tests/image%20-%20Copia%20(10).png" width="300" height="200">
 
 3. **Transformação em Tensor**: Conseguimos converter imagens em tensores, um marco significativo.
 

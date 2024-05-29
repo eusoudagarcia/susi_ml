@@ -10,6 +10,7 @@ O **susi_ml** nasceu da necessidade de uma solução robusta e nativa em Dart pa
 
 Começamos com uma visão simples e evoluímos para resolver problemas complexos. Aqui está uma linha do tempo visual da nossa jornada:
 
+
 1. **Imagem Inicial**: Nosso ponto de partida, uma ideia brilhante esperando para ser moldada.
 
 ![Imagem Inicial](https://github.com/garciadp95/susi_ml/blob/main/lib/tests/14471433500_cdaa22e3ea_m.jpg?raw=true)
